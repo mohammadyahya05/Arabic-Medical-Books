@@ -1,0 +1,7 @@
+{
+  "users": [
+    { "name": "Ahmed", "age": 30 },
+    { "name": "Sara", "age": 25 },
+    { "name": "Ali", "age": 28 }
+  ]
+}
